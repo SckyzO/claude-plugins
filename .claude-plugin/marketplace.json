@@ -1,0 +1,12 @@
+{
+  "name": "sckyzo-plugins",
+  "description": "Claude Code plugins maintained by SckyzO.",
+  "owner": { "name": "SckyzO" },
+  "plugins": [
+    {
+      "name": "project-setup",
+      "source": { "source": "github", "repo": "SckyzO/claude-project-setup" },
+      "description": "Frame any repository for Claude Code: stack detection, past-correction mining, per-repo plugin budget, lean CLAUDE.md."
+    }
+  ]
+}
